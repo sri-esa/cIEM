@@ -1,3 +1,4 @@
+//write a program to count the frequency of each ele,ment of an array
 #include <stdio.h>
 int main()
 {

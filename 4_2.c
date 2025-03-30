@@ -8,7 +8,7 @@ int main()
     int a[m],b[m];
     for(int i=0;i<m;i++)
     {
-        printf("Enter the elements of position %d:\t",i);
+        printf("Enter the element of position %d:\t",i);
         scanf("%d",&a[i]);
         b[i]=a[i];
     }
